@@ -25,7 +25,7 @@ SafeWebp Pro is an AI-powered image optimization tool that intelligently reduces
 
 ### Backend Setup
 ```bash
-git clone https://github.com/your-username/safewebp-pro.git
+git clone https://github.com/wuqqers/safewebp.git
 cd safewebp-pro
 python -m venv venv
 source venv/bin/activate
