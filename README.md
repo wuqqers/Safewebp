@@ -79,6 +79,8 @@ This software was developed in the spirit of open-source community collaboration
 - 🌐 Web: [omerkayaekici.com](https://www.omerkayaekici.com/)
 - 🔗 LinkedIn: [/in/omerkayaekici](https://www.linkedin.com/in/wuqqers/)
 - 📧 Email: omer.kaya.ekici@yandex.com
+-  If you want test it my a application from website: https://safewebp.netlify.app/
+-  ⚠️ Unfortunately, I don't have paid hosting for the backend, so I use it for free. You can use images smaller than 2MB for testing, otherwise the system will not be able to convert and downsize, but if you want to process files larger than 2mb you can do it by installing the project on your computer. 😔
 
 ## 🙏 Support
 Please open an issue for any problems or suggestions!
